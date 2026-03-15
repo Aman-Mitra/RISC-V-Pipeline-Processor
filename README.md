@@ -1,4 +1,4 @@
 # RISC-V-Single-Cycle-Processor
 
 
-![Processor Architecture](images)
+![Processor Architecture](images/ProcessorArchitecture.png)
